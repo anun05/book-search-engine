@@ -12,7 +12,9 @@ Took starter code with a fully functioning Google Books API search engine built 
 
 
 ## Process 
-https://watch.screencastify.com/v/hsvEiSd4FlyEJ7LJ464I
+You can start by searching up any book! 
+![Demo](https://watch.screencastify.com/v/hsvEiSd4FlyEJ7LJ464I)
+
 ## Deployed application 
 
 
