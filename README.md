@@ -16,7 +16,7 @@ You can start by searching up any book!
 ![Demo](./assets/search.gif)
 
 You can also create and account and save books in your file. You can delete books and add as many as you want and they will be there when you come back! 
-![Demo](./assets/info.git)
+![Demo](./assets/info.gif)
 
 
 
