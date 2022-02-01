@@ -13,10 +13,16 @@ Took starter code with a fully functioning Google Books API search engine built 
 
 ## Process 
 You can start by searching up any book! 
-![Demo](./assets/searh.webm)
+
+
+![Demo](./assets/search.gif)
+
+
 
 You can also create and account and save books in your file. You can delete books and add as many as you want and they will be there when you come back! 
-![Demo](./assets/infoandcred.webm)
+
+
+![Demo](./assets/info.gif)
 
 
 
